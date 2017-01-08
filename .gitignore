@@ -1,0 +1,24 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+out/
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+pom.xml.releaseBackup
+release.properties
+
+#Atlassian plugin
+atlassian-ide-plugin.xml
+
+*.log
